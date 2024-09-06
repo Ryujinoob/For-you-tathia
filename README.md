@@ -11,7 +11,7 @@ hidden=[".config"]
 channel = "stable-21_11"
 
 [languages.html]
-pattern = "**/*.html"
+pattern = "fafa/tathia.html"
   [languages.html.languageServer]
   start = ["vscode-html-language-server", "--stdio"]
   [languages.html.languageServer.initializationOptions]
